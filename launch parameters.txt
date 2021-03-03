@@ -1,0 +1,1 @@
+-noforcemaccel -noforcemparms -noforcemspd -preload -high -highpriority -32bpp -tickrate 128 -x64  -panorama -d3d9ex -freq 240 +exec autoexec.cfg -worldwide
